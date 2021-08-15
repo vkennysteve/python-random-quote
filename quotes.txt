@@ -12,3 +12,10 @@ Favor focus over features
 Avoid administrative distraction
 Design for failure
 Keep it logically awesome
+Don't settle for less
+Test and retest before shipping
+Remember counting is index based
+If you hate anything, hate mediocrity!
+Always show up
+It's more important to be compassionate than rational
+That's it :smile:
